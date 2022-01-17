@@ -1,7 +1,7 @@
 {
     "flags": "-iE",
      "patterns": [
-"Lmage_url=",
+"image_url=",
 "Open=",
 "callback=",
 "cgi-bin/redirect.cgi",
